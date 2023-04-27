@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/131790697/234728342-7c9bff1d-4f2f-4f32-824f-9a31771d4108.png)
+
 <h1 align="center">Hi 👋, I'm Mauro</h1>
 <h3 align="center">IT student from Uruguay</h3>
 
